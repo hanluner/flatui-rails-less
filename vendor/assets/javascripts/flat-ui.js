@@ -9,5 +9,5 @@
 //= require jquery.tagsinput
 //= require jquery.placeholder
 //= require jquery.stacktable
-//= require application
+//= require run-application
 
