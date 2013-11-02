@@ -1,5 +1,8 @@
 # Flatui-Rails-Less
-This is the Designmodo flat ui bootstrap in less. More detail see [http://designmodo.github.io/Flat-UI/]: http://designmodo.github.io/Flat-UI/
+
+This is the Designmodo flat ui bootstrap in less.
+
+More detail see  http://designmodo.github.io/Flat-UI/
 
 ## Installation
 
@@ -22,6 +25,7 @@ In application.css:
     *= require flat-ui
 
 In application.js:
+
     //= require flat-ui
 
 
